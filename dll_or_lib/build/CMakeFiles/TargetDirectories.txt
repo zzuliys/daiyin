@@ -1,0 +1,5 @@
+C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/t2/CMakeFiles/t2.dir
+C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/t3/CMakeFiles/t3.dir
+C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/t1/CMakeFiles/t1.dir
