@@ -2,11 +2,12 @@
 #include "test1.h"
 #include "test2.h"
 #include "test3.h"
-using namespace std;
+
+__declspec(dllimport) void sayTest2();
 
 void sayTest1()
 {
-    cout << "这里是t1" << endl;
+    std::cout << "这里是t1" << std::endl;
 }
 
 int main()
