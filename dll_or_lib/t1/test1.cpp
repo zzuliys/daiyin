@@ -4,6 +4,11 @@
 #include "test3.h"
 using namespace std;
 
+void sayTest1()
+{
+    cout << "这里是t1" << endl;
+}
+
 int main()
 {
     sayTest1();

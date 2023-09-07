@@ -26,7 +26,7 @@ events:
       用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.2+f32259642
       版权所有(C) Microsoft Corporation。保留所有权利。
       
-      生成启动时间为 2023/9/6 11:28:24。
+      生成启动时间为 2023/9/7 9:07:52。
       节点 1 上的项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\3.27.0-rc5\\CompilerIdC\\CompilerIdC.vcxproj”(默认目标)。
       PrepareForBuild:
         正在创建目录“Debug\\”。
@@ -52,7 +52,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:01.74
+      已用时间 00:00:01.31
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -80,7 +80,7 @@ events:
       用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.2+f32259642
       版权所有(C) Microsoft Corporation。保留所有权利。
       
-      生成启动时间为 2023/9/6 11:28:26。
+      生成启动时间为 2023/9/7 9:07:53。
       节点 1 上的项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\3.27.0-rc5\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
       PrepareForBuild:
         正在创建目录“Debug\\”。
@@ -106,7 +106,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:00.58
+      已用时间 00:00:00.59
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,8 +125,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-hkzw43"
-      binary: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-hkzw43"
+      source: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-coyrn9"
+      binary: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-coyrn9"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -135,39 +135,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-hkzw43'
+        Change Dir: 'C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-coyrn9'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_64677.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_60615.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.2+f32259642
         版权所有(C) Microsoft Corporation。保留所有权利。
         
-        生成启动时间为 2023/9/6 11:28:27。
-        节点 1 上的项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hkzw43\\cmTC_64677.vcxproj”(默认目标)。
+        生成启动时间为 2023/9/7 9:07:54。
+        节点 1 上的项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-coyrn9\\cmTC_60615.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_64677.dir\\Debug\\”。
-          正在创建目录“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hkzw43\\Debug\\”。
-          正在创建目录“cmTC_64677.dir\\Debug\\cmTC_64677.tlog\\”。
+          正在创建目录“cmTC_60615.dir\\Debug\\”。
+          正在创建目录“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-coyrn9\\Debug\\”。
+          正在创建目录“cmTC_60615.dir\\Debug\\cmTC_60615.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_64677.dir\\Debug\\cmTC_64677.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在创建“cmTC_60615.dir\\Debug\\cmTC_60615.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_64677.dir\\Debug\\\\" /Fd"cmTC_64677.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_60615.dir\\Debug\\\\" /Fd"cmTC_60615.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30151 版
           版权所有(C) Microsoft Corporation。保留所有权利。
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_64677.dir\\Debug\\\\" /Fd"cmTC_64677.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_60615.dir\\Debug\\\\" /Fd"cmTC_60615.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hkzw43\\Debug\\cmTC_64677.exe" /INCREMENTAL /ILK:"cmTC_64677.dir\\Debug\\cmTC_64677.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-hkzw43/Debug/cmTC_64677.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-hkzw43/Debug/cmTC_64677.lib" /MACHINE:X64  /machine:x64 cmTC_64677.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_64677.vcxproj -> C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hkzw43\\Debug\\cmTC_64677.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-coyrn9\\Debug\\cmTC_60615.exe" /INCREMENTAL /ILK:"cmTC_60615.dir\\Debug\\cmTC_60615.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-coyrn9/Debug/cmTC_60615.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-coyrn9/Debug/cmTC_60615.lib" /MACHINE:X64  /machine:x64 cmTC_60615.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_60615.vcxproj -> C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-coyrn9\\Debug\\cmTC_60615.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_64677.dir\\Debug\\cmTC_64677.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_64677.dir\\Debug\\cmTC_64677.tlog\\cmTC_64677.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hkzw43\\cmTC_64677.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_60615.dir\\Debug\\cmTC_60615.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_60615.dir\\Debug\\cmTC_60615.tlog\\cmTC_60615.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-coyrn9\\cmTC_60615.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:00.56
+        已用时间 00:00:00.57
         
       exitCode: 0
   -
@@ -179,8 +179,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-519wwk"
-      binary: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-519wwk"
+      source: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-viw7h0"
+      binary: "C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-viw7h0"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -189,39 +189,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-519wwk'
+        Change Dir: 'C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-viw7h0'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_6f827.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_69172.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.11.2+f32259642
         版权所有(C) Microsoft Corporation。保留所有权利。
         
-        生成启动时间为 2023/9/6 11:28:28。
-        节点 1 上的项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-519wwk\\cmTC_6f827.vcxproj”(默认目标)。
+        生成启动时间为 2023/9/7 9:07:55。
+        节点 1 上的项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-viw7h0\\cmTC_69172.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_6f827.dir\\Debug\\”。
-          正在创建目录“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-519wwk\\Debug\\”。
-          正在创建目录“cmTC_6f827.dir\\Debug\\cmTC_6f827.tlog\\”。
+          正在创建目录“cmTC_69172.dir\\Debug\\”。
+          正在创建目录“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-viw7h0\\Debug\\”。
+          正在创建目录“cmTC_69172.dir\\Debug\\cmTC_69172.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_6f827.dir\\Debug\\cmTC_6f827.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在创建“cmTC_69172.dir\\Debug\\cmTC_69172.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6f827.dir\\Debug\\\\" /Fd"cmTC_6f827.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_69172.dir\\Debug\\\\" /Fd"cmTC_69172.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30151 版
           版权所有(C) Microsoft Corporation。保留所有权利。
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6f827.dir\\Debug\\\\" /Fd"cmTC_6f827.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_69172.dir\\Debug\\\\" /Fd"cmTC_69172.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-519wwk\\Debug\\cmTC_6f827.exe" /INCREMENTAL /ILK:"cmTC_6f827.dir\\Debug\\cmTC_6f827.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-519wwk/Debug/cmTC_6f827.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-519wwk/Debug/cmTC_6f827.lib" /MACHINE:X64  /machine:x64 cmTC_6f827.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_6f827.vcxproj -> C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-519wwk\\Debug\\cmTC_6f827.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-viw7h0\\Debug\\cmTC_69172.exe" /INCREMENTAL /ILK:"cmTC_69172.dir\\Debug\\cmTC_69172.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-viw7h0/Debug/cmTC_69172.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/daiyin/Desktop/daiyin/dll_or_lib/build/CMakeFiles/CMakeScratch/TryCompile-viw7h0/Debug/cmTC_69172.lib" /MACHINE:X64  /machine:x64 cmTC_69172.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_69172.vcxproj -> C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-viw7h0\\Debug\\cmTC_69172.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_6f827.dir\\Debug\\cmTC_6f827.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_6f827.dir\\Debug\\cmTC_6f827.tlog\\cmTC_6f827.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-519wwk\\cmTC_6f827.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_69172.dir\\Debug\\cmTC_69172.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_69172.dir\\Debug\\cmTC_69172.tlog\\cmTC_69172.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“C:\\Users\\daiyin\\Desktop\\daiyin\\dll_or_lib\\build\\CMakeFiles\\CMakeScratch\\TryCompile-viw7h0\\cmTC_69172.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:01.47
+        已用时间 00:00:00.76
         
       exitCode: 0
 ...
