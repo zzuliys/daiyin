@@ -1,4 +1,0 @@
-C:/Users/daiyin/Desktop/daiyin/encryption/build/CMakeFiles/encryption.dir
-C:/Users/daiyin/Desktop/daiyin/encryption/build/CMakeFiles/decrypt.dir
-C:/Users/daiyin/Desktop/daiyin/encryption/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/daiyin/Desktop/daiyin/encryption/build/CMakeFiles/ZERO_CHECK.dir
