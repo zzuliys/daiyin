@@ -1,0 +1,10 @@
+^C:\USERS\DAIYIN\DESKTOP\DAIYIN\ENCRYPTION\BUILD\CMAKEFILES\EE1339FDB10E4B8FEE6007A34094F7A2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/daiyin/Desktop/daiyin/encryption -BC:/Users/daiyin/Desktop/daiyin/encryption/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/daiyin/Desktop/daiyin/encryption/build/encryption.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
