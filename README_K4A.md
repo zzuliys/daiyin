@@ -81,7 +81,8 @@ API documentation is avaliable [here](https://orbbec.github.io/docs/OrbbecSDK_K4
 
 ## Building
 
-t is the same as Native K4A, please refer to:[building](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/blob/ob/dev/1.8.x/docs/building.md)
+It is the same as Native K4A, please refer to:[building](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/blob/ob/dev/1.8.x/docs/building.md)
+
 Quick Instructions:
 
 * Windows:
