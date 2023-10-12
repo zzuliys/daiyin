@@ -1,6 +1,6 @@
 # Orbbec SDK K4A Wrapper
 
-Welcome to the Orbbec SDK K4A Wrapper! This branch is contain the K4A wrapper for Orbbec SDK. It's mean that user can use this library to develop the application with K4A API, but use to access the Orbbec camera. Also user can use this library to replace native K4A library in your application to access the Orbbec camera without any code change.
+Welcome to the Orbbec SDK K4A Wrapper! 
 
 This repo is forked from Azure Kinect Sensor SDK
 
@@ -10,7 +10,7 @@ The usage of this library is same as Native K4A
 
 ## Introduction
 
-**Orbbec SDK K4A Wrapper** is a cross platform (Linux and Windows) user mode SDK to read data from your orbbec device.
+**Orbbec SDK K4A Wrapper** is contain the K4A wrapper for Orbbec SDK. It's mean that user can use this library to develop the application with K4A API, but use to access the Orbbec camera. Also user can use this library to replace native K4A library in your application to access the Orbbec camera without any code change.
 
 **Support camera and platform:**  Orbbec Femto Mega: Windows10+, Ubuntu20.04+; x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+; x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
 
@@ -34,18 +34,6 @@ The Orbbec SDK K4A Wrapper enables you to get the most out of your orbbec camera
 * Device calibration data access
 
 ## Installation
-
-To use the Orbbec SDK K4A Wrapper, please refer to the installation instructions in [usage](docs/usage.md)
-
-Quick Instructions:
-
- * Linux script :
-
-    ```bash
-    cd src/orbbec/OrbbecSDK/misc/scripts
-    sudo chmod +x ./install_udev_rules.sh
-    ./install_udev_rules.sh
-    ```
 
 
 ## Documentation
@@ -159,17 +147,13 @@ Welcome to the [Q&A](kinect-qa.md) corner!
 
 ## Join Our Developer Program
 
-Complete your developer profile [here](https://developer.orbbec.com.cn/) to get connected with our Mixed Reality Developer Program. You will receive the latest on our developer tools, events, and early access offers.
+
 
 ## Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Reporting Security Issues
-Security issues and bugs should be reported privately, via email, to the administrators <[daiyin@orbbec.com](daiyin@orbbec.com)>.
-You will receive a response as soon as possible. If for some reason you do not, please follow up via email to ensure we received your original message.
+
 
 ## License Support for Orbbec SDK K4A Wrapper
 
