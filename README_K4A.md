@@ -18,6 +18,7 @@ The [k4a.h](./include/k4a/k4a.h) is the header file of K4A API, and the source c
 ## Introduction
 
 **OrbbecSDK-K4A-Wrapper** is a cross platform (Linux and Windows) user mode SDK to read data from your orbbec device.
+
 **Support camera and platform:**  Orbbec Femto Mega: Windows10+, Ubuntu20.04+; x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+; x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
 
 
@@ -35,7 +36,7 @@ The OrbbecSDK-K4A-Wrapper enables you to get the most out of your orbbec camera.
 
 ## Installation
 
-To use the SDK, please refer to the installation instructions in [usage](docs/usage.md)
+To use the OrbbecSDK-K4A-Wrapper, please refer to the installation instructions in [usage](docs/usage.md)
 
 ## Documentation
 
