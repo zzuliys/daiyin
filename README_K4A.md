@@ -1,30 +1,29 @@
-# OrbbecSDK-K4A-Wrapper
+# Orbbec SDK K4A Wrapper
 
-Welcome to the OrbbecSDK-K4A-Wrapper! This branch is contain the K4A wrapper for OrbbecSDK. It's mean that user can use this library to develop the application with K4A API, but use to access the Orbbec camera. Also user can use this library to replace native K4A library in your application to access the Orbbec camera without any code change.
+Welcome to the Orbbec SDK K4A Wrapper! This branch is contain the K4A wrapper for Orbbec SDK. It's mean that user can use this library to develop the application with K4A API, but use to access the Orbbec camera. Also user can use this library to replace native K4A library in your application to access the Orbbec camera without any code change.
 
 This repo is forked from Azure Kinect Sensor SDK
 
-This branch is base on release/1.4.x, and use new impl code base on OrbbecSDK to replace the k4a implementation.
+This branch is base on release/1.4.x, and use new impl code base on Orbbec SDK to replace the k4a implementation.
 
 The usage of this library is same as Native K4A
 
-**What we did?**
-
-The [k4a.h](./include/k4a/k4a.h) is the header file of K4A API, and the source code in [k4a.c](./src/sdk/k4a.c) is the implementation of K4A API. We have reimplemented the K4A API in [ob_k4a_impl.c](./src/orbbec/ob_k4a_impl.c) with OrbbecSDK, and keep the same effect as the original K4A API. Therefore, all functions called on user's side will be redirected to the OrbbecSDK, and user can access the Orbbec camera like the K4A device.
-
-![OrbbecSDK-K4A-Wrapper](src/orbbec/docs/resource/OrbbecSDK-K4A-Wrapper.png)
-
-
 ## Introduction
 
-**OrbbecSDK-K4A-Wrapper** is a cross platform (Linux and Windows) user mode SDK to read data from your orbbec device.
+**Orbbec SDK K4A Wrapper** is a cross platform (Linux and Windows) user mode SDK to read data from your orbbec device.
 
 **Support camera and platform:**  Orbbec Femto Mega: Windows10+, Ubuntu20.04+; x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+; x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
 
+**What we did?**
 
-## Why use the OrbbecSDK-K4A-Wrapper
+The [k4a.h](./include/k4a/k4a.h) is the header file of K4A API, and the source code in [k4a.c](./src/sdk/k4a.c) is the implementation of K4A API. We have reimplemented the K4A API in [ob_k4a_impl.c](./src/orbbec/ob_k4a_impl.c) with Orbbec SDK, and keep the same effect as the original K4A API. Therefore, all functions called on user's side will be redirected to the Orbbec SDK, and user can access the Orbbec camera like the K4A device.
 
-The OrbbecSDK-K4A-Wrapper enables you to get the most out of your orbbec camera. Features include:
+![Orbbec SDK K4A Wrapper](src/orbbec/docs/resource/OrbbecSDK-K4A-Wrapper.png)
+
+
+## Why use the Orbbec SDK K4A Wrapper
+
+The Orbbec SDK K4A Wrapper enables you to get the most out of your orbbec camera. Features include:
 
 * Depth camera access
 * RGB camera access and control (e.g. exposure and white balance)
@@ -36,7 +35,7 @@ The OrbbecSDK-K4A-Wrapper enables you to get the most out of your orbbec camera.
 
 ## Installation
 
-To use the OrbbecSDK-K4A-Wrapper, please refer to the installation instructions in [usage](docs/usage.md)
+To use the Orbbec SDK K4A Wrapper, please refer to the installation instructions in [usage](docs/usage.md)
 
 Quick Instructions:
 
@@ -112,7 +111,7 @@ Quick Instructions:
             mesa-common-dev \
             uuid-dev
         ```
-        
+
     * Linux building:
         * ninja:
         
@@ -148,7 +147,7 @@ We welcome your contributions! Please see the [contribution guidelines](CONTRIBU
 
 ## Feedback
 
-For OrbbecSDK-K4A-Wrapper feedback or to report a bug, please file a [GitHub Issue](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/issues). For general suggestions or ideas, visit our [feedback forum](https://developer.orbbec.com.cn/).
+For Orbbec SDK K4A Wrapper feedback or to report a bug, please file a [GitHub Issue](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/issues). For general suggestions or ideas, visit our [feedback forum](https://developer.orbbec.com.cn/).
 
 ## Sample Code
 
@@ -172,6 +171,6 @@ or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any addi
 Security issues and bugs should be reported privately, via email, to the administrators <[daiyin@orbbec.com](daiyin@orbbec.com)>.
 You will receive a response as soon as possible. If for some reason you do not, please follow up via email to ensure we received your original message.
 
-## License Support for OrbbecSDK-K4A-Wrapper
+## License Support for Orbbec SDK K4A Wrapper
 
 [MIT License](LICENSE)
