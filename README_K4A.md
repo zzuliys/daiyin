@@ -38,34 +38,8 @@ The OrbbecSDK-K4A-Wrapper enables you to get the most out of your orbbec camera.
 
 To use the OrbbecSDK-K4A-Wrapper, please refer to the installation instructions in [usage](docs/usage.md)
 
-* Linux dependencds:
+Quick Instructions:
 
-    ```bash
-        sudo apt update
-        sudo apt install -y \
-            pkg-config \
-            ninja-build \
-            doxygen \
-            clang \
-            gcc-multilib \
-            g++-multilib \
-            python3 \
-            nasm
-
-        sudo apt install -y \
-            libgl1-mesa-dev \
-            libsoundio-dev \
-            libvulkan-dev \
-            libx11-dev \
-            libxcursor-dev \
-            libxinerama-dev \
-            libxrandr-dev \
-            libusb-1.0-0-dev \
-            libssl-dev \
-            libudev-dev \
-            mesa-common-dev \
-            uuid-dev
-    ```
  * Linux script :
 
     ```bash
@@ -97,6 +71,36 @@ Quick Instructions:
     ```
 
 * Linux
+
+* Linux dependencds:
+
+    ```bash
+        sudo apt update
+        sudo apt install -y \
+            pkg-config \
+            ninja-build \
+            doxygen \
+            clang \
+            gcc-multilib \
+            g++-multilib \
+            python3 \
+            nasm
+
+        sudo apt install -y \
+            libgl1-mesa-dev \
+            libsoundio-dev \
+            libvulkan-dev \
+            libx11-dev \
+            libxcursor-dev \
+            libxinerama-dev \
+            libxrandr-dev \
+            libusb-1.0-0-dev \
+            libssl-dev \
+            libudev-dev \
+            mesa-common-dev \
+            uuid-dev
+    ```
+* Linux building:
 
     ```bash
     cd OrbbecSDK-K4A-Wrapper
