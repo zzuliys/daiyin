@@ -22,7 +22,7 @@ The [k4a.h](./include/k4a/k4a.h) is the header file of K4A API, and the source c
 **Support camera and platform:**  Orbbec Femto Mega: Windows10+, Ubuntu20.04+; x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+; x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
 
 
-## Why use the Azure Kinect SDK
+## Why use the OrbbecSDK-K4A-Wrapper
 
 The OrbbecSDK-K4A-Wrapper enables you to get the most out of your orbbec camera. Features include:
 
@@ -60,6 +60,7 @@ It is the same as Native K4A, please refer to:[building](https://github.com/orbb
 Quick Instructions:
 
 * Windows:
+    * Ninja:
 
     ```powershell
     cd OrbbecSDK-K4A-Wrapper
@@ -72,43 +73,43 @@ Quick Instructions:
 
 * Linux
 
-* Linux dependencds:
+    * Linux dependencds:
 
-    ```bash
-    sudo apt update
-    sudo apt install -y \
-        pkg-config \
-        ninja-build \
-        doxygen \
-        clang \
-        gcc-multilib \
-        g++-multilib \
-        python3 \
-        nasm
+        ```bash
+        sudo apt update
+        sudo apt install -y \
+            pkg-config \
+            ninja-build \
+            doxygen \
+            clang \
+            gcc-multilib \
+            g++-multilib \
+            python3 \
+            nasm
 
-    sudo apt install -y \
-        libgl1-mesa-dev \
-        libsoundio-dev \
-        libvulkan-dev \
-        libx11-dev \
-        libxcursor-dev \
-        libxinerama-dev \
-        libxrandr-dev \
-        libusb-1.0-0-dev \
-        libssl-dev \
-        libudev-dev \
-        mesa-common-dev \
-        uuid-dev
-    ```
-* Linux building:
+        sudo apt install -y \
+            libgl1-mesa-dev \
+            libsoundio-dev \
+            libvulkan-dev \
+            libx11-dev \
+            libxcursor-dev \
+            libxinerama-dev \
+            libxrandr-dev \
+            libusb-1.0-0-dev \
+            libssl-dev \
+            libudev-dev \
+            mesa-common-dev \
+            uuid-dev
+        ```
+    * Linux building:
 
-    ```bash
-    cd OrbbecSDK-K4A-Wrapper
-    mkdir build && cd build
-    sudo cmake .. -G Ninja
-    sudo ninja
-    sudo ninja install
-    ```
+        ```bash
+        cd OrbbecSDK-K4A-Wrapper
+        mkdir build && cd build
+        sudo cmake .. -G Ninja
+        sudo ninja
+        sudo ninja install
+        ```
 
 ## Versioning
 
