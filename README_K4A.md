@@ -166,14 +166,14 @@ There are several places where the sample code can be found.
 TODO
 
 ## Join Our Developer Program
-Complete your developer profile [here](https://3dclub.orbbec3d.com/) to get connected with our Mixed Reality Developer Program. You will receive the latest on our developer tools, events, and early access offers.
+Complete your developer profile [here](https://3dclub.orbbec3d.com/) to get connected with our Mixed Reality Developer Program. 
 
 ## Code of Conduct
 TODO
 
 ## Reporting Security Issues
 Security issues and bugs should be reported privately, via email, to the
-administrators at <[it@orbbec.com](it@orbbec.com)>.
+administrators at <[it@orbbec.com](mailto:it@orbbec.com)>.
 You should receive a response within 24 hours. If for some reason you do not, please follow up via
 email to ensure we received your original message. 
 ## License Support for Orbbec SDK K4A Wrapper
