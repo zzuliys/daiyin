@@ -71,6 +71,17 @@ Quick Instructions:
     ninja install
     ```
 
+    * cmake:
+
+    ```powershell
+    cd OrbbecSDK-K4A-Wrapper
+    mkdir build
+    cd build
+    cmake ../
+    cmake --build .
+    cmake --install .
+    ```
+
 * Linux
 
     * Linux dependencds:
@@ -101,14 +112,26 @@ Quick Instructions:
             mesa-common-dev \
             uuid-dev
         ```
+        
     * Linux building:
-
+        * ninja:
+        
         ```bash
         cd OrbbecSDK-K4A-Wrapper
         mkdir build && cd build
         sudo cmake .. -G Ninja
         sudo ninja
         sudo ninja install
+        ```
+
+        * cmake
+
+        ```bash
+        cd OrbbecSDK-K4A-Wrapper
+        mkdir build && cd build
+        sudo cmake ..
+        sudo make -j8
+        sudo make install
         ```
 
 ## Versioning
