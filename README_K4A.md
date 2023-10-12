@@ -2,11 +2,11 @@
 
 Welcome to the Orbbec SDK K4A Wrapper! 
 
-This repo is forked from Azure Kinect Sensor SDK
+*This repo is forked from [Azure Kinect Sensor SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK)*
 
-This branch is base on release/1.4.x, and use new impl code base on Orbbec SDK to replace the k4a implementation.
+*This branch is base on release/1.4.x, and use new impl code base on [OrbbecSDK](https://github.com/orbbec/OrbbecSDK) to replace the k4a implementation.*
 
-The usage of this library is same as Native K4A
+*The usage of this library is same as [Native K4A](./README_K4A.md)*
 
 ## Introduction
 
