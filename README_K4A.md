@@ -43,9 +43,9 @@ Quick Instructions:
  * Linux script :
 
     ```bash
-        cd src/orbbec/OrbbecSDK/misc/scripts
-        sudo chmod +x ./install_udev_rules.sh
-        ./install_udev_rules.sh
+    cd src/orbbec/OrbbecSDK/misc/scripts
+    sudo chmod +x ./install_udev_rules.sh
+    ./install_udev_rules.sh
     ```
 
 
