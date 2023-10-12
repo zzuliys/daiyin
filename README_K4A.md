@@ -15,9 +15,7 @@ Welcome to the Orbbec SDK K4A Wrapper!
 **Support camera and platform:**  
 
 Orbbec Femto Mega: Windows10+, Ubuntu20.04+;
-
 x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+;
-
 x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
 
 **What we did?**
