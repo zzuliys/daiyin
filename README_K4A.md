@@ -10,9 +10,13 @@ The usage of this library is same as Native K4A
 
 ## Introduction
 
-**Orbbec SDK K4A Wrapper** is contain the K4A wrapper for Orbbec SDK. It's mean that user can use this library to develop the application with K4A API, but use to access the Orbbec camera. Also user can use this library to replace native K4A library in your application to access the Orbbec camera without any code change.
+**Wrapper** is contain the K4A wrapper for Orbbec SDK. It's mean that user can use this library to develop the application with K4A API, but use to access the Orbbec camera. Also user can use this library to replace native K4A library in your application to access the Orbbec camera without any code change.
 
-**Support camera and platform:**  Orbbec Femto Mega: Windows10+, Ubuntu20.04+; x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+; x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
+**Support camera and platform:**  
+
+Orbbec Femto Mega: Windows10+, Ubuntu20.04+;
+x64 Orbbec Femto Bolt: Windows10+, Ubuntu18.04+;
+x64 Other Orbbec cameras and platforms without test, don't use it in production environment.
 
 **What we did?**
 
@@ -34,7 +38,7 @@ The Orbbec SDK K4A Wrapper enables you to get the most out of your orbbec camera
 * Device calibration data access
 
 ## Installation
-
+TODO
 
 ## Documentation
 
@@ -122,16 +126,14 @@ Quick Instructions:
         ```
 
 ## Versioning
-
-The Azure Kinect SDK uses semantic versioning, please see [versioning.md](docs/versioning.md) for more information.
+TODO
 
 ## Testing
 
 For information on writing or running tests, please see [testing.md](docs/testing.md)
 
 ## Contribute
-
-We welcome your contributions! Please see the [contribution guidelines](CONTRIBUTING.md).
+TODO
 
 ## Feedback
 
@@ -142,19 +144,16 @@ For Orbbec SDK K4A Wrapper feedback or to report a bug, please file a [GitHub Is
 Please see the [sample](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/tree/ob/dev/1.8.x/examples)
 
 ## Q&A
-
-Welcome to the [Q&A](kinect-qa.md) corner!
+TODO
 
 ## Join Our Developer Program
-
-
+TODO
 
 ## Code of Conduct
-
+TODO
 
 ## Reporting Security Issues
-
+TODO
 
 ## License Support for Orbbec SDK K4A Wrapper
-
 [MIT License](LICENSE)
