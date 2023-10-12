@@ -141,7 +141,11 @@ For Orbbec SDK K4A Wrapper feedback or to report a bug, please file a [GitHub Is
 
 ## Sample Code
 
-Please see the [sample](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/tree/ob/dev/1.8.x/examples)
+
+There are several places where the sample code can be found.
+
+- In this repository: [OrbbecSDK-K4A-Wrapper\examples](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/tree/ob/dev/1.8.x/examples)- each example has a readme page that describes it and the steps to set it up.
+- [Azure-Kinect-Samples](https://github.com/microsoft/Azure-Kinect-Samples) repository. There are multiple examples of how to use both Sensor and Body tracking SDKs.
 
 ## Q&A
 TODO
