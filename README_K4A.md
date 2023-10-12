@@ -75,30 +75,30 @@ Quick Instructions:
 * Linux dependencds:
 
     ```bash
-        sudo apt update
-        sudo apt install -y \
-            pkg-config \
-            ninja-build \
-            doxygen \
-            clang \
-            gcc-multilib \
-            g++-multilib \
-            python3 \
-            nasm
+    sudo apt update
+    sudo apt install -y \
+        pkg-config \
+        ninja-build \
+        doxygen \
+        clang \
+        gcc-multilib \
+        g++-multilib \
+        python3 \
+        nasm
 
-        sudo apt install -y \
-            libgl1-mesa-dev \
-            libsoundio-dev \
-            libvulkan-dev \
-            libx11-dev \
-            libxcursor-dev \
-            libxinerama-dev \
-            libxrandr-dev \
-            libusb-1.0-0-dev \
-            libssl-dev \
-            libudev-dev \
-            mesa-common-dev \
-            uuid-dev
+    sudo apt install -y \
+        libgl1-mesa-dev \
+        libsoundio-dev \
+        libvulkan-dev \
+        libx11-dev \
+        libxcursor-dev \
+        libxinerama-dev \
+        libxrandr-dev \
+        libusb-1.0-0-dev \
+        libssl-dev \
+        libudev-dev \
+        mesa-common-dev \
+        uuid-dev
     ```
 * Linux building:
 
