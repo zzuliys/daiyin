@@ -86,7 +86,7 @@ For OrbbecSDK-K4A-Wrapper feedback or to report a bug, please file a [GitHub Iss
 
 ## Sample Code
 
-Please see the[sample](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/tree/ob/dev/1.8.x/examples)
+Please see the [sample](https://github.com/orbbec/OrbbecSDK-K4A-Wrapper/tree/ob/dev/1.8.x/examples)
 
 ## Q&A
 
