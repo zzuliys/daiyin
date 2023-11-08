@@ -1,0 +1,3 @@
+D:/Desktop/daiyin/build/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/daiyin/build/CMakeFiles/ZERO_CHECK.dir
+D:/Desktop/daiyin/build/src/singleton/CMakeFiles/singleton.dir

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Desktop\daiyin\build\CMakeFiles\5a1aaac4096102798a6e6d6fb2c99cff\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Desktop\daiyin\DesignPatterns\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src</Filter>
+    </None>
+    <None Include="D:\Desktop\daiyin\DesignPatterns\src\singleton\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src\singleton</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F572ED2F-8DCA-3324-B23A-3EFC26AF41C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src">
+      <UniqueIdentifier>{88604A20-DE69-388C-ABFE-A028E5784162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src\singleton">
+      <UniqueIdentifier>{46C218D0-D951-3A9E-9005-E54C5F5C405C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
