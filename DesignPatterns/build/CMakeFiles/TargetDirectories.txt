@@ -1,4 +1,0 @@
-D:/Desktop/daiyin/DesignPatterns/build/CMakeFiles/ALL_BUILD.dir
-D:/Desktop/daiyin/DesignPatterns/build/CMakeFiles/ZERO_CHECK.dir
-D:/Desktop/daiyin/DesignPatterns/build/src/singleton/CMakeFiles/singleton.dir
-D:/Desktop/daiyin/DesignPatterns/build/src/factory/CMakeFiles/factory.dir
