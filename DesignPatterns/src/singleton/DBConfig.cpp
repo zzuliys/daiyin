@@ -2,11 +2,13 @@
 
 #include <fstream>
 #include <iostream>
+#include <mutex>
 
 DBConfig *DBConfig::config = nullptr;
-
+static std::mutex mutex;
 DBConfig *DBConfig::getInstance()
 {
+    std::lock_guard<std::mutex> lock(mutex);
     if (config == nullptr)
     {
         config = new DBConfig();
