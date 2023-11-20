@@ -18,7 +18,7 @@ DBConfig *DBConfig::getInstance()
 
 DBConfig::DBConfig()
 {
-    std::fstream fs("../../dbconfig.txt");
+    std::fstream fs("./dbconfig.txt");
     char tempStr[1024];
     int index = 0;
     while (fs.getline(tempStr, 1024))
