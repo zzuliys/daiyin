@@ -17,13 +17,13 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "singleton::@50bf91d97f686c29f882"
-		},
-		{
 			"id" : "factory::@fe291e6479ff98ed29de"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "singleton::@50bf91d97f686c29f882"
 		}
 	],
 	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
