@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Desktop\daiyin\DesignPatterns\build\CMakeFiles\ffbbe1d0ef40be807f7a44dd6260e357\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Desktop\daiyin\DesignPatterns\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src</Filter>
+    </None>
+    <None Include="D:\Desktop\daiyin\DesignPatterns\src\factory\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src\factory</Filter>
+    </None>
+    <None Include="D:\Desktop\daiyin\DesignPatterns\src\singleton\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src\singleton</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A7FE9217-3984-3735-BEEB-EBC382940751}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src">
+      <UniqueIdentifier>{FE4F84F7-A1E7-3D6E-80D3-89E981B91D2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src\factory">
+      <UniqueIdentifier>{9D31BE33-F020-3455-9FBE-D6ECB95E125D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src\singleton">
+      <UniqueIdentifier>{64720008-7A91-39A5-A85D-32F55D8248AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
