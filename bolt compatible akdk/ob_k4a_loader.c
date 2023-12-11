@@ -7,6 +7,7 @@ instance_t get_instance(file_dll){
 
     // 获取函数指针
     instance_t *instance;
+    
     if (hDLL != NULL) {
         instance->device_open = (k4a_device_open_fn_t)GetProcAddress(hDLL, "k4a_device_open");
         instance->device_close = (k4a_device_close_fn_t)GetProcAddress(hDLL, "k4a_device_close");

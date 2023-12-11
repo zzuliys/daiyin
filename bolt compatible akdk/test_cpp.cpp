@@ -20,7 +20,7 @@ int main(){
         config.depth_mode = K4A_DEPTH_MODE_WFOV_UNBINNED;
         config.camera_fps = K4A_FRAMES_PER_SECOND_15;
 
-    device->start_cameras(&config);
+        device->start_cameras(&config);
 
         instance->k4a_device_start_cameras(device, &config);
 
